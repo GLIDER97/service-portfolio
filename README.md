@@ -39,13 +39,10 @@ The **Work** section shows four YouTube videos (promo + intro, each 9:16 and 16:
 (`js/main.js`). To swap a video, replace its ID in three spots on that line: `href`, `data-yt` and the
 thumbnail `src` (`https://i.ytimg.com/vi/VIDEO_ID/maxresdefault.jpg`).
 
-## Deploy
+## Deploy (Netlify)
 
-It's a static folder, so any static host works:
+The site is connected to Netlify from the GitHub repo. Every push to `main` redeploys it automatically.
+`netlify.toml` tells Netlify there's no build step and the site is served from the repo root.
 
-- **Netlify** — drag the folder onto https://app.netlify.com/drop
-- **Vercel** — `npx vercel` in this folder
-- **GitHub Pages** — push to a repo, then Settings → Pages → deploy from branch
-
-After deploying, set the absolute URL in the `og:image` meta tag in `index.html`
-(e.g. `https://yourdomain.com/assets/img/vipul-singh.jpg`) so link previews show the photo.
+After the first deploy, set the absolute URL in the `og:image` meta tag in `index.html`
+(e.g. `https://your-site.netlify.app/assets/img/vipul-singh.jpg`) so link previews show the photo.
