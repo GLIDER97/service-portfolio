@@ -1,0 +1,43 @@
+# Vipul Singh — App Promo Videos
+
+> Vipul Singh makes premium promo and intro videos for mobile apps (iOS and Android): real app footage in animated 3D phone mockups, with motion graphics, kinetic text, voiceover, music and captions. Every video is delivered in both 9:16 (vertical) and 16:9 (horizontal), 48 hours after the client picks a script. Prices start at $39.
+
+Website: https://vipul-singh.netlify.app/
+
+## Service
+
+- What: app promo videos and app intro videos, also called device mockup videos or motion-graphics app showcases.
+- For: mobile app developers, indie developers, startups and app publishers who need a video for their App Store or Google Play listing, Google App Campaigns, Meta/Instagram ads, Reels, YouTube Shorts, TikTok, YouTube, a website or a launch.
+- Platforms: iOS and Android apps; one video works for both stores. Casual and simple games too.
+- No source code needed: an App Store / Google Play link, a TestFlight or closed-testing invite, or an APK is enough. Unreleased apps are fine, and an NDA is available.
+- Clients: worldwide. Voiceover in English, Hindi and other languages.
+
+## Pricing (USD)
+
+- Promo video, 15–30 seconds: $39
+- Intro video, 30–60 seconds: $69
+- Launch bundle (promo + intro, 4 files): $99
+- Every package: 9:16 + 16:9, 3 script options before production, AI voiceover (male or female), music made for the video, animated captions, blurring of personal data on screen, a branded end card, and 2 revision rounds.
+- Add-ons: extra language version $19, 24-hour rush delivery $29, extra revision round $10.
+- Payment: 50% to start, 50% on delivery, by PayPal, Wise, card or UPI.
+
+## Delivery
+
+- 48 hours after the client chooses a script (launch bundle: 3–4 days).
+- The client owns the final videos and can use them anywhere, including paid ads.
+
+## Compared with alternatives
+
+- Doing it yourself: 2–3 weeks, plus editing, motion-design and audio skills.
+- Typical agency: 2–4 weeks and $1,000+.
+- Vipul Singh: 48 hours, from $39, voiceover, music and both formats included.
+
+## Links
+
+- [Sample videos](https://vipul-singh.netlify.app/#work): promo and intro samples for the same app, in 9:16 and 16:9
+- [Pricing](https://vipul-singh.netlify.app/#pricing)
+- [FAQ](https://vipul-singh.netlify.app/#faq)
+- [Order form](https://vipul-singh.netlify.app/#order)
+- [WhatsApp](https://wa.me/919958929886)
+- [Email](mailto:hello@vipulsingh.com)
+- [LinkedIn](https://www.linkedin.com/in/vipulsingh97)

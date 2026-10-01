@@ -1,4 +1,25 @@
+# Everyone may crawl the whole site.
 User-agent: *
+Allow: /
+
+# AI assistants and AI search, listed explicitly so they know they're welcome.
+# OpenAI (ChatGPT search + browsing + training)
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+# Anthropic (Claude search + browsing + training)
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: ClaudeBot
+# Google Gemini, Apple Intelligence, Perplexity, Microsoft Copilot (via Bing), others
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: bingbot
+User-agent: DuckAssistBot
+User-agent: meta-externalagent
+User-agent: CCBot
 Allow: /
 
 Sitemap: https://vipul-singh.netlify.app/sitemap.xml

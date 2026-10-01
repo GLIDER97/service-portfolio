@@ -8,7 +8,8 @@ index.html              the page
 css/styles.css          fonts, design tokens (colors, type), components, page styles
 js/main.js              sizes the embedded Google Form; click-to-play for sample videos
 assets/img/             portrait photo, favicon + PNG icons, og-image.jpg (1200×630 link-preview image)
-robots.txt, sitemap.xml crawler files (point at the live URL)
+robots.txt, sitemap.xml crawler files (point at the live URL; AI crawlers allowed explicitly)
+llms.txt                plain-text summary of the service for AI assistants (ChatGPT, Claude, Gemini, Perplexity)
 site.webmanifest        app name + icons for browsers / home screens
 assets/fonts/           Archivo + Instrument Serif (self-hosted)
 Vipul Singh Portfolio.html   original design export (reference only, not used by the site)
@@ -60,3 +61,13 @@ another domain, find & replace that URL in those three files.
 - **Search Console** — add the site in [Google Search Console](https://search.google.com/search-console)
   (and Bing Webmaster Tools), then submit `https://vipul-singh.netlify.app/sitemap.xml`.
 - `Vipul Singh Portfolio.html` is marked `noindex` so search engines don't index the reference export.
+
+### AI assistants (ChatGPT, Claude, Gemini, Perplexity)
+
+- `robots.txt` explicitly allows the AI search and browsing crawlers — don't block them.
+- `llms.txt` is a plain-text fact sheet: what the service is, who it's for, prices, delivery, links.
+  **Keep it in sync with the page** whenever prices, packages or contact details change.
+- FAQ answers are written so an assistant can quote them directly ("How much does an app promo video cost?").
+  New FAQs go both in the page and in the FAQPage part of the JSON-LD block.
+- AI answers mostly come from web search (ChatGPT search leans on Bing, Gemini on Google), so submit the sitemap
+  to **Bing Webmaster Tools** as well as Google Search Console, and get the site mentioned and linked on other sites.
